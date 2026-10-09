@@ -2,7 +2,7 @@
 
 **Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvimento de Software e Automação**
 
-Estou no 3º semestre de ADS na UNINASSAU e busco uma oportunidade de **estágio em desenvolvimento de software ou automação de processos**. Este perfil reúne aplicações web e exercícios que uso para aplicar meus estudos e ampliar minha prática.
+Estou no 3º semestre de Análise e Desenvolvimento de Sistemas na UNINASSAU. Meus estudos combinam desenvolvimento de software e automação de processos, com aplicações web e exercícios para transformar aprendizado em prática.
 
 [LinkedIn](https://www.linkedin.com/in/jhon-adryan-915082291/) · [Repositórios](https://github.com/jhonmnf?tab=repositories)
 
@@ -10,7 +10,7 @@ Estou no 3º semestre de ADS na UNINASSAU e busco uma oportunidade de **estágio
 
 Minha trajetória inclui atendimento ao cliente, vendas e controle de estoque. Essa vivência me aproxima dos desafios de uma operação comercial e motiva meu interesse em soluções que facilitem tarefas do dia a dia.
 
-Quero aprender com profissionais mais experientes e contribuir com uma equipe no desenvolvimento de software e na melhoria de processos.
+Tenho interesse em desenvolvimento web e automação de processos. Neste portfólio, reúno projetos e estudos que representam minha evolução nessas áreas.
 
 ## Conhecimentos e estudos
 
@@ -43,4 +43,4 @@ Catálogo web com busca de produtos, categorias e visualização de detalhes. Pr
 
 ## Contato
 
-Busco estágio em desenvolvimento de software ou automação de processos. Para conversar sobre oportunidades e conhecer minha trajetória, entre em contato pelo [LinkedIn](https://www.linkedin.com/in/jhon-adryan-915082291/).
+Conheça minha trajetória e entre em contato pelo [LinkedIn](https://www.linkedin.com/in/jhon-adryan-915082291/).
